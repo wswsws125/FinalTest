@@ -1,4 +1,72 @@
 <resources>
     <string name="app_name">InClassAssignment10</string>
     <string name="title_activity_empty">EmptyActivity</string>
+    <string name="encourage_excellent">Excellent work!</string>
+    <string name="encourage_good">Good job! Keep Going.</string>
+    <string name="encourage_bad">Practice more, you can do better!</string>
+
+
+    <string name="reading1">Upton Sinclair’s The Jungle, published in 1906. Jurgis is a recent immigrant struggling to make a life in the United States.  When Jurgis got up again he went quietly Enough. He was exhausted and half dazed, and Beside he saw the blue uniforms of the policemen. He drove in a patrol wagon with half a dozen of  Them watching him; keeping as far away as  Possible, however, on account of the fertilizer. Then he stood before the sergeant’s desk and gave His name and address, and saw a charge of assault  And battery entered against him. On his way to his Cell a burly policeman cursed him because he Started down the wrong corridor, and then added a  Kick when he was not quick enough; nevertheless, Jurgis did not even life his eyes-he had lived Two years and a half in Packingtown, and he knew  What the policy were. It was as much as a man’s Very life was worth to anger them, here in their  Inmost lair; like as not a dozen would pile on to  Him at once, and pound his face into a pulp. IT Would be nothing unusual if he got his skull  Cracked in the melee-in which case they would  Report that he had been drunk and had fallen down, And there would be no one to know the difference Or to car.  So a barred door clanged upon Jurgis and he Sat down upon a bench and buried his face in hi Hands. He was alone; he had the afternoon and all Of the night to himself.  At first he was like a wild beast that has  Glutted itself; he was in a dull stupor of Satisfaction. He had done up the scoundrel pretty Well-not as well as he would have if they had Given him a minute more, but pretty well, all the  Same; the ends of his fingers were still tingling  From their contact with the fellow’s throat. But Then, little by little, as his strength came back and His senses cleared, he began to see beyond his Momentary gratification, that he had nearly killed The boss would not help Ona-not the horrors That she had borne, nor the memory that would Haunt her all her days. It would not help to feed her And her child; she would certainly lose her place, While he-what was to happen to him God only Knew.  Half of the night he paced the floor, wrestling  With this nightmare, and when he was exhausted  He lay down, trying to sleep, but finding instead, For the first time in his life, that his brain was too Much for him. In the cell next to him was a Drunken wife-beater and in the one beyond a Yelling maniac. At midnight they opened the  Stationhouse to the homeless wanderers who were Crowded about the door, shivering in the winter Blast, and they thronged into the corridor outside Of the cells. Some of them stretched themselves Out on the bare stone floor and fell to snoring; Others sat up, laughing and talking, cursing and Quarrelling. The air was fetid with their breath, yet In spite of this some of them smelt Jurgis and Called down the torments of hell upon him, while He lay in a far corner, counting the  Throbbings of the blood in his forehead. They had brought him his supper, which was “duffers and dope”-being hunks of dry bread on A tin plate, and coffee, called “dope” because it Was drugged to keep the prisoners quiet. Jurgis had Not known this, or he would have swallowed the Stuff in desperation; as it was, every nerve of him Was a-quiver with same and rage. Toward Morning the place fell silent, and he got up and  Began to pace his cell; and then within the soul of Him there rose up a fiend, red-eyed and cruel, and Tore out the strings of his heart.</string>
+
+    <string name="read1_q1_question">1. Which of the following choices best summarizes the passage?
+</string>
+    <string name="read1_question1_A">
+A)A man spends the night in jail.
+</string>
+    <string name="read1_question1_B">
+B)A man angers policemen and is injured in the process.
+</string>
+    <string name="read1_question1_C">
+C)A man regrets his action.
+</string>
+    <string name="read1_question1_D">
+        D)A man copes with the consequences of his actions.
+</string>
+    <string name="read1_question1_rightAnswer">
+D
+</string>
+    <string name="read1_question1_type">
+       Summarizing
+</string>
+
+    <string name="read1_q2_question">
+2. From the first paragraph to the third paragraph, the focus of the passage shifts from
+</string>
+    <string name="read1_question2_A">
+A)A description of inner thoughts to the telling of events.
+</string>
+    <string name="read1_question2_B">
+B)The telling of events to description of inner thoughts.</string>
+    <string name="read1_question2_C">
+C)The sharing of an opinion to a declaration of fact.</string>
+    <string name="read1_question2_D">
+D)The argument of a point to questions raised in response.</string>
+    <string name="read1_question2_rightAnswer">
+B
+</string>
+    <string name="read1_question2_type">
+       Text Structure
+</string>
+
+
+    <string name="read1_q3_question">
+3. The passage indicates that Jurgis is in a(n)</string>
+    <string name="read1_question3_A">
+A)Jail</string>
+    <string name="read1_question3_B">
+B)Asylum</string>
+    <string name="read1_question3_C">
+C)Slaughterhouse
+</string>
+    <string name="read1_question3_D">
+        D)Fertilizer manufacturing plant.
+</string>
+    <string name="read1_question3_rightAnswer">
+A
+</string>
+    <string name="read1_question3_type">
+       Close Reading
+</string>
+
+
 </resources>

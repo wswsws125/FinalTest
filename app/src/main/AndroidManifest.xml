@@ -17,10 +17,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".EmptyActivity"
+            android:name=".QuestionPage"
             android:label="@string/title_activity_empty"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".ReadingApp"></activity>
+        <activity android:name=".ReadingApp" />
+        <activity android:name=".ResultPage"></activity>
     </application>
 
 </manifest>
